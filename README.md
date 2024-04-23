@@ -1,5 +1,5 @@
 # DiningPhilosophers
-Java implementation of the dining philosophers problem.
+Java implementation of the dining philosophers problem. There is also a rough C# implementation under ```program.cs```. Since I use a Mac I was only able to run the C# version on an online compiler, but I wanted to write it out as a C# threading refresher.
 
 ## Build Instructions
 ```
